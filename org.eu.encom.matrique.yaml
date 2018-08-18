@@ -19,4 +19,4 @@ modules:
       - type: git
         url: https://gitlab.com/b0/matrique.git
         tag: '187'
-        commit: d2b2f1c9e3ac79a7371d21ba2612884f79bd4a0f
+        commit: 6640b172d595fe96667351e6141035297d8e40f6
