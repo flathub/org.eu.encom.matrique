@@ -8,6 +8,7 @@ finish-args:
   - --share=network
   - --socket=x11
   - --socket=wayland
+  - --socket=pulseaudio
   - --device=dri
   - --filesystem=home
   - --talk-name=org.freedesktop.Notifications
@@ -18,5 +19,5 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/b0/matrique.git
-        tag: '200'
-        commit: cfe34e5303bf39db3c2c8e725420962fbfdf8964
+        tag: '215'
+        commit: b9839fc24237d2d600a0b57e4edd6cb308377e37
