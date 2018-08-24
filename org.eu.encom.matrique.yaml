@@ -19,5 +19,5 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/b0/matrique.git
-        tag: '215'
-        commit: b9839fc24237d2d600a0b57e4edd6cb308377e37
+        tag: '218'
+        commit: 07109f09d4388a57d67edddd5c76b0a585825d99
